@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Emilio
 - 👀 I’m interested in IoT
-- 🌱 I’m currently learning AI
+- 🌱 I’m currently learning AI and computer vision
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me: linkedin.com/in/emiliojr
 
