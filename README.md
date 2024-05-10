@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Emilio
 - 👀 I’m interested in IoT
+- 👀 I'm currently working in a project for Cybersecurity on IoT Systems
 - 🌱 I’m currently learning AI and computer vision
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me: linkedin.com/in/emiliojr
